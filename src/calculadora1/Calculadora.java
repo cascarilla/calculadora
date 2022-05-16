@@ -12,7 +12,7 @@ package calculadora1;
 
 public class Calculadora {
 // clase con constructor pasando dos numeros reales, setters , getters y métodos para devolver el resultado de sumar, restar , multiplicar y dividir
-    private double numero1, numero2;
+   
 
     public Calculadora(double numero1, double numero2){
        this.numero1=numero1;
